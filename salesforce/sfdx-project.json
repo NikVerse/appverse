@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "av-userModule",
+      "default": true
+    }
+  ],
+  "name": "appverse",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "54.0"
+}
