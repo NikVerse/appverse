@@ -1,1 +1,1 @@
-FROM salesforce/salesforcedx:latest-rc-full
+FROM smartappsaustralia/sfdx:latest
